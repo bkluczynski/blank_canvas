@@ -33,4 +33,8 @@ end
 group :development do
   gem 'web-console', '~> 2.0'
   gem 'spring'
+
 end
+
+gem 'rails_12factor', group: :production
+ruby "2.3.1"
