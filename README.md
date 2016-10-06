@@ -47,7 +47,7 @@ If you have PostgreSQL and bundler installed the following commands can be emplo
     $ bundle install
     $ bin/rails s
 
-Or just click the link below :
+Or just click the following link to see it running on Heroku :
  <a href="https://blank-canvas-application.herokuapp.com/">Blank Canvas</a>
 
 
